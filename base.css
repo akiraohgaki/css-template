@@ -1,0 +1,16 @@
+:root {
+    font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font: var(--size-text)/1.5 Arial, sans-serif;
+}
