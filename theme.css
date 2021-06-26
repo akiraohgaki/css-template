@@ -1,52 +1,52 @@
 :root {
-    /* Colors */
-    --color-primary: #6d1afd;
-    --color-on-primary: #ffffff;
+  /* Colors */
+  --color-primary: #6d1afd;
+  --color-on-primary: #ffffff;
 
-    --color-primary-active: #8a48fe;
-    --color-on-primary-active: #ffffff;
+  --color-primary-active: #8a48fe;
+  --color-on-primary-active: #ffffff;
 
-    --color-primary-passive: #5715cb;
-    --color-on-primary-passive: #ffffff;
+  --color-primary-passive: #5715cb;
+  --color-on-primary-passive: #ffffff;
 
-    --color-secondary: #04b8c8;
-    --color-on-secondary: #000000;
+  --color-secondary: #04b8c8;
+  --color-on-secondary: #000000;
 
-    --color-secondary-active: #36c6d3;
-    --color-on-secondary-active: #000000;
+  --color-secondary-active: #36c6d3;
+  --color-on-secondary-active: #000000;
 
-    --color-secondary-passive: #0393a0;
-    --color-on-secondary-passive: #000000;
+  --color-secondary-passive: #0393a0;
+  --color-on-secondary-passive: #000000;
 
-    --color-background: #ffffff;
-    --color-on-background: #2d2d2d;
+  --color-background: #ffffff;
+  --color-on-background: #2d2d2d;
 
-    --color-surface: #ffffff;
-    --color-on-surface: #2d2d2d;
+  --color-surface: #ffffff;
+  --color-on-surface: #2d2d2d;
 
-    --color-important: #db0c63;
-    --color-on-important: #ffffff;
+  --color-important: #db0c63;
+  --color-on-important: #ffffff;
 
-    --color-information: #1086ee;
-    --color-on-information: #ffffff;
+  --color-information: #1086ee;
+  --color-on-information: #ffffff;
 
-    --color-border: rgba(200, 200, 200, 0.7);
-    --color-shadow: rgba(200, 200, 200, 0.5);
-    --color-highlight: rgba(200, 200, 200, 0.2);
+  --color-border: rgba(200, 200, 200, 0.7);
+  --color-shadow: rgba(200, 200, 200, 0.5);
+  --color-highlight: rgba(200, 200, 200, 0.2);
 
-    /* Sizes */
-    --size-text: 1rem;
-    --size-text-small: 0.8rem;
-    --size-text-large: 1.4rem;
+  /* Sizes */
+  --size-text: 1rem;
+  --size-text-small: 0.8rem;
+  --size-text-large: 1.4rem;
 
-    --size-space: 1rem;
-    --size-space-small: 0.5rem;
-    --size-space-large: 1.5rem;
+  --size-space: 1rem;
+  --size-space-small: 0.5rem;
+  --size-space-large: 1.5rem;
 
-    --size-radius: 5px;
-    --size-radius-small: 3px;
-    --size-radius-large: 9px;
+  --size-radius: 5px;
+  --size-radius-small: 3px;
+  --size-radius-large: 9px;
 
-    --size-border: 1px;
-    --size-shadow: 8px;
+  --size-border: 1px;
+  --size-shadow: 8px;
 }
