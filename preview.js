@@ -17,8 +17,12 @@ function main() {
   main.innerHTML = '';
 
   const colors = [
-    'primary-active', 'primary', 'primary-passive',
-    'secondary-active', 'secondary', 'secondary-passive',
+    'primary-active',
+    'primary',
+    'primary-passive',
+    'secondary-active',
+    'secondary',
+    'secondary-passive',
     'background',
     'surface',
     'important',
@@ -41,10 +45,12 @@ function main() {
         display: inline-block;
         padding: 0.5rem;
       ">${color}</span>
+      <br>
       <span style="
         display: inline-block;
         padding: 0.5rem;
       ">${color}</span>
+      <br>
       <!-- Variations -->
       <div style="
         width: 100%; height: 2rem;
